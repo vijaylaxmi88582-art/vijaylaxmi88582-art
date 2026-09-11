@@ -1,11 +1,12 @@
-# 👋 Hi, I'm Vijaylaxmi Prajapti
+# 👋 Hi, I' m Vijaylaxmi Prajapti
 
 ### 💻 MERN Stack Developer | B.Tech Computer Science Graduate
 
 I'm a passionate **MERN Stack Developer** who enjoys building real-world web applications and learning new technologies.
 
-I have completed a **6-month internship at Digi Coder**, where I gained practical experience in MERN Stack development and worked with frontend, backend, APIs, and databases.
 
+
+I have completed a **6-month internship at Digi Coder**, where I gained practical experience in MERN Stack development and worked with frontend, backend, APIs, and databases.
 ---
 
 ## 🚀 About Me
@@ -84,4 +85,4 @@ My goal is to become a skilled and experienced **MERN Stack Developer**, work on
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile! A
