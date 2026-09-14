@@ -1,88 +1,26 @@
-# 👋 Hi, I' m Vijaylaxmi Prajapti
+# 👋 Hi, I'm Vijay Laxmi   ( [**Pro-vijaylaxmi-01**](https://haproid.netlify.app/user/pro-vijaylaxmi-01/) )
+ 
+**MERN Full Stack Developer · Computer Science Engineer · Open to Opportunities**
 
-### 💻 MERN Stack Developer | B.Tech Computer Science Graduate
+I’m **Vijay Laxmi**, a MERN Full Stack Developer from **Maharajganj, Uttar Pradesh, India**. I have practical experience in full-stack web development and enjoy building useful, scalable, and real-world web applications.
 
-I'm a passionate **MERN Stack Developer** who enjoys building real-world web applications and learning new technologies.
+### 🚀 What I Do
 
+**Full Stack Development** · **Web Applications** · **MERN Development** · **API Development** · **Problem Solving**
 
+I focus on developing modern web applications and turning ideas into practical digital solutions through full-stack development.
 
-I have completed a **6-month internship at Digi Coder**, where I gained practical experience in MERN Stack development and worked with frontend, backend, APIs, and databases.
----
+### 💼 Professional Experience
 
-## 🚀 About Me
+**DigiCoder Technologies** · **MERN Stack Developer Intern**
 
-* 🎓 B.Tech in Computer Science from **ITM College, Maharajganj**
-* 💻 MERN Stack Developer
-* 🌱 Currently improving my **Node.js, Express.js and MongoDB** skills
-* 🔧 Interested in building scalable and user-friendly web applications
-* 🧠 Quick learner and always interested in learning new technologies
-* 💼 Currently looking for **MERN Stack / Full Stack Developer opportunities**
+Completed a **6-month internship**, gaining practical experience in full-stack web development and real-world application development.
 
----
+### 🔗 Connect With Me
 
-## 🛠️ Tech Stack
+[**Profile**](https://portfolio-indol-six-d3wc0nm9ta.vercel.app/) .  [**HaproID Profile**](https://haproid.netlify.app/user/pro-vijaylaxmi-01/) · [**Email**](mailto:vijaylaxmi88582@gmail.com)   [**Linkedin Profile**](https://www.linkedin.com/in/vijaylaxmi-prajapti-196602335/) . [**Github**](https://github.com/vijaylaxmi88582-art)   
 
-**Frontend**
-
-* HTML
-* CSS
-* JavaScript
-* React.js
-
-**Backend**
-
-* Node.js
-* Express.js
-* REST APIs
-
-**Database**
-
-* MongoDB
-* SQL
-
-**Tools**
-
-* Git
-* GitHub
-* Postman
-* Docker
-* VS Code
 
 ---
 
-## 📌 Projects
-
-### 🛒 E-Commerce Website
-
-A full-stack e-commerce application where users can browse products, add products to cart, and place orders.
-
-**Technologies:** React.js, Node.js, Express.js, MongoDB
-
-### 📱 Social Media Application
-
-A social media platform where users can create accounts, upload posts, like and comment on posts, and interact with other users.
-
-**Technologies:** React.js, Node.js, Express.js, MongoDB
-
-### 🍱 Tiffin Delivery System
-
-A web application designed for managing tiffin ordering and delivery services.
-
-**Technologies:** MERN Stack
-
----
-
-## 🎯 My Goal
-
-My goal is to become a skilled and experienced **MERN Stack Developer**, work on challenging real-world projects, and continuously improve my development and problem-solving skills.
-
----
-
-## 📫 Connect With Me
-
-* 💼 [LinkedIn](https://linkedin.com/in/vijaylaxmi-prajapti-196602335/)
-* 🐙 [GitHub](https://github.com/vijaylaxmi88582-art)
-
----
-
-### ⭐ Thanks for visiting my profile! A
+*© 2026 Vijay Laxmi · HaproID: Pro-vijaylaxmi-01*
