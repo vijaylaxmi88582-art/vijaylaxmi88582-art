@@ -9,7 +9,7 @@ image: https://haproven.netlify.app/assets/images/logo.png
 
 ## Links
 
-live: https://haproven.netlify.app/
+live: https://portfolio-indol-six-d3wc0nm9ta.vercel.app/
 demo:
 documentation:
 
